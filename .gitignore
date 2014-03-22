@@ -1,0 +1,5 @@
+# use glob syntax.
+syntax: glob
+*.class
+war/AGB-Analyse
+war/WEB-INF/classes
